@@ -25,6 +25,8 @@ Note: Our project is not fully working yet. Our main focus was the web-scraping,
 
 (Only working code is listed below)
 
+Video Tutorial of our project: https://www.loom.com/share/3bdfbc2b5e384ede8e8cd7c6cc320089
+
 Web-Scraping
 --------------------------------------------------------------------------------
 Our version of webscraping involves a series of programs that
