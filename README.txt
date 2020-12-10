@@ -15,7 +15,7 @@ resources provided by the University, highlight the diversity & equity
 work that doesn't always make the headlines, but makes a longlasting impact,
 as well as shed light on the many more efforts we still need to actualize.
 
-Video Tutorial of our project: *insert link here*
+Video Tutorial of our project: https://www.loom.com/share/3bdfbc2b5e384ede8e8cd7c6cc320089
 
 Our program can be broken down into 3 major components: Web-Scraping, Search Engine, and Graphic User Interface (GUI)
 Below is a guide on how to use each of the 3 components, and how these components work together. 
@@ -25,7 +25,6 @@ Note: Our project is not fully working yet. Our main focus was the web-scraping,
 
 (Only working code is listed below)
 
-Video Tutorial of our project: https://www.loom.com/share/3bdfbc2b5e384ede8e8cd7c6cc320089
 
 Web-Scraping
 --------------------------------------------------------------------------------
