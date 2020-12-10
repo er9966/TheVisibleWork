@@ -1,0 +1,402 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js">
+    <head>
+        <title> Race &amp; Equity Initiative </title>
+        <meta charset="utf-8">
+        <meta name="description" content="University of Washington">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='//www.washington.edu' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Race &amp; Equity Initiative &raquo; Feed" href="https://www.washington.edu/raceequity/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Race &amp; Equity Initiative &raquo; Comments Feed" href="https://www.washington.edu/raceequity/comments/feed/" />
+<meta property="og:image" content="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2016/04/08160216/purple-bg-1024x284.gif" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@uw" />
+<meta name="twitter:creator" content="@uw" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="Race & Equity at the UW" />
+<meta property="og:url" content="https://www.washington.edu/raceequity/" />
+<meta property="og:site_name" content="Race &amp; Equity Initiative" />
+<meta property="og:description" content="This is not somebody else’s problem
+" />
+
+
+<link rel='stylesheet' id='contact-form-7-css'  href='//www.washington.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='uw-master-css'  href='//www.washington.edu/wp-content/themes/uw-2014/style.css?ver=2.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-open-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;ver=3.6' type='text/css' media='all' />
+<script type='text/javascript' src='//www.washington.edu/wp-content/themes/uw-2014/js/libraries/jquery.min.js?ver=1.11.3'></script>
+<script type='text/javascript' src='//www.washington.edu/wp-content/plugins/uw-analytics/analytics.js?ver=4.9.15'></script>
+<script type='text/javascript' src='//www.washington.edu/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.5'></script>
+<script type='text/javascript' src='//www.washington.edu/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='//www.washington.edu/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var style_dir = "https:\/\/www.washington.edu\/cms\/raceequity";
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/www.washington.edu\/cms\/raceequity\/wp-admin\/admin-ajax.php","nonce":"015ec395df","display_exif":"1","display_geo":"","background_color":"white","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","require_name_email":"1","login_url":"https:\/\/www.washington.edu\/cms\/raceequity\/wp-login.php?redirect_to=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fraceequity%2F"};
+var apiKey = {"local":"","network":"AIzaSyAtyy_XX9al6Xyq2KVHt8q949BkAwsI48c"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.washington.edu/wp-content/themes/uw-2014/js/site.js?ver=2.2.7'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.washington.edu/raceequity/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//www.washington.edu/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.15" />
+<link rel="canonical" href="https://www.washington.edu/raceequity/" />
+<link rel='shortlink' href='https://www.washington.edu/raceequity/' />
+<script type='text/javascript'> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-73096667-1', 'auto'); ga('require', 'linkid', 'linkid.js'); ga('send', 'pageview');</script>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = {"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Jeff Hendrickson"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ6QQBT');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+        <!--[if lt IE 9]>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/html5shiv.js" type="text/javascript"></script>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/respond.js" type="text/javascript"></script>
+            <link rel='stylesheet' href='//www.washington.edu/wp-content/themes/uw-2014/assets/ie/css/ie.css' type='text/css' media='all' />
+        <![endif]-->
+
+
+    </head>
+    <!--[if lt IE 9]> <body class="home page-template page-template-templates page-template-template-small-hero page-template-small-hero page page-id-735 lt-ie9 site-raceequity ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQ6QQBT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><br style="display:none;"> <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <body class="home page-template page-template-templates page-template-template-small-hero page-template-small-hero page page-id-735 site-raceequity ">
+<!-- Google Tag Manager (noscript) --><br style="display:none;" >
+    <!--<![endif]-->
+
+    <div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container"></div>
+
+    <a id="main-content" href="#main_content" class="screen-reader-shortcut">Skip to main content</a>
+
+    <div id="uw-container">
+
+    <div id="uw-container-inner">
+
+
+    <header class="uw-thinstrip" role="banner">
+
+  <div class="container">
+    <a href="http://uw.edu" title="University of Washington Home" class="uw-patch">University of Washington</a>
+    <a href="http://uw.edu" title="University of Washington Home" class="uw-wordmark" tabindex='-1' aria-hidden='true'>University of Washington</a>
+  </div>
+  <div class='align-right'>
+      <nav class="uw-thin-strip-nav" aria-label='audience menu'>
+          <ul class="uw-thin-links">
+            <li><a href="http://uw.edu/studentlife" title="Students">Students</a></li>
+            <li><a href="http://uw.edu/parents" title="Parents">Parents</a></li>
+            <li><a href="http://uw.edu/facultystaff" title="Faculty & Staff">Faculty & Staff</a></li>
+            <li><a href="http://uw.edu/alumni" title="Alumni">Alumni</a></li>
+          </ul>
+      </nav>
+      <nav id='search-quicklinks' aria-label='search and quick links'>
+      <button class='uw-search' aria-owns='uwsearcharea' aria-controls='uwsearcharea' aria-expanded='false' aria-label='open search area' aria-haspopup='true'>
+<!--[if gt IE 8]><!-->
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               width="19px" height="51px" viewBox="0 0 18.776 51.062" enable-background="new 0 0 18.776 51.062" xml:space="preserve" focusable="false">
+          <g>
+              <path fill="#FFFFFF" d="M3.537,7.591C3.537,3.405,6.94,0,11.128,0c4.188,0,7.595,3.406,7.595,7.591
+                c0,4.187-3.406,7.593-7.595,7.593C6.94,15.185,3.537,11.778,3.537,7.591z M5.245,7.591c0,3.246,2.643,5.885,5.884,5.885
+                c3.244,0,5.89-2.64,5.89-5.885c0-3.245-2.646-5.882-5.89-5.882C7.883,1.71,5.245,4.348,5.245,7.591z"/>
+
+              <rect x="2.418" y="11.445" transform="matrix(0.7066 0.7076 -0.7076 0.7066 11.7842 2.0922)" fill="#FFFFFF" width="1.902" height="7.622"/>
+          </g>
+          <path fill="#FFFFFF" d="M3.501,47.864c0.19,0.194,0.443,0.29,0.694,0.29c0.251,0,0.502-0.096,0.695-0.29l5.691-5.691l5.692,5.691
+              c0.192,0.194,0.443,0.29,0.695,0.29c0.25,0,0.503-0.096,0.694-0.29c0.385-0.382,0.385-1.003,0-1.388l-5.692-5.691l5.692-5.692
+              c0.385-0.385,0.385-1.005,0-1.388c-0.383-0.385-1.004-0.385-1.389,0l-5.692,5.691L4.89,33.705c-0.385-0.385-1.006-0.385-1.389,0
+              c-0.385,0.383-0.385,1.003,0,1.388l5.692,5.692l-5.692,5.691C3.116,46.861,3.116,47.482,3.501,47.864z"/>
+          </svg>
+<!--<![endif]-->
+      </button>
+      <button class='uw-quicklinks' aria-haspopup='true' aria-expanded="false" aria-label="Open quick links">Quick Links<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="15.63px" height="69.13px" viewBox="0 0 15.63 69.13" enable-background="new 0 0 15.63 69.13" xml:space="preserve" focusable="false"><polygon fill="#FFFFFF" points="12.8,7.776 12.803,7.773 5.424,0 3.766,1.573 9.65,7.776 3.766,13.98 5.424,15.553 12.803,7.78"/><polygon fill="#FFFFFF" points="9.037,61.351 9.036,61.351 14.918,55.15 13.26,53.577 7.459,59.689 1.658,53.577 0,55.15 5.882,61.351 5.882,61.351 5.884,61.353 0,67.557 1.658,69.13 7.459,63.019 13.26,69.13 14.918,67.557 9.034,61.353"/></svg></button>
+      </nav>
+  </div>
+
+</header>
+
+    <nav id="dawgdrops" aria-label="Main menu"><div class="dawgdrops-inner container"><ul id="menu-race-equity-2016" class="dawgdrops-nav"><li class="dawgdrops-item"><a href="https://www.washington.edu/raceequity/" title="Home"  id="home-2">Home</a></li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/raceequity/updates/" class="dropdown-toggle" title="Actions and updates"  id="725">Actions and updates</a>
+<button data-toggle="dropdown" aria-controls="menu-725" aria-labelledby="725"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-725" aria-labelledby='725' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/raceequity/updates/bias-reporting-tools/" tabindex="-1"  title="Bias reporting tools"  id="726">Bias reporting tools</a></li>
+	<li><a href="https://www.washington.edu/raceequity/updates/climate-assessment/" tabindex="-1"  title="Climate assessment"  id="727">Climate assessment</a></li>
+	<li><a href="https://www.washington.edu/raceequity/updates/diversity-blueprint/" tabindex="-1"  title="Diversity Blueprint"  id="728">Diversity Blueprint</a></li>
+	<li><a href="https://www.washington.edu/raceequity/updates/faculty-recruitment/" tabindex="-1"  title="Faculty recruitment"  id="730">Faculty recruitment</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/raceequity/accountability/" title="Accountability"  id="724">Accountability</a></li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/raceequity/resources/" class="dropdown-toggle" title="Resources"  id="resources-2">Resources</a>
+<button data-toggle="dropdown" aria-controls="menu-resources-2" aria-labelledby="resources-2"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-resources-2" aria-labelledby='resources-2' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/raceequity/resources/anti-racism-resources/" tabindex="-1"  title="Anti-Racism resources"  id="1761">Anti-Racism resources</a></li>
+	<li><a href="https://www.washington.edu/raceequity/covid-19-student-resources/" tabindex="-1"  title="Covid 19 – Student Resources"  id="covid-19-student-resources">Covid 19 – Student Resources</a></li>
+	<li><a href="https://www.washington.edu/raceequity/resources/leadership-workshops/" tabindex="-1"  title="Leadership workshops"  id="731">Leadership workshops</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/" class="dropdown-toggle" title="School and college profiles"  id="1168">School and college profiles</a>
+<button data-toggle="dropdown" aria-controls="menu-1168" aria-labelledby="1168"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-1168" aria-labelledby='1168' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/college-of-arts-sciences/" tabindex="-1"  title="College of Arts &amp; Sciences"  id="college-of-arts-sciences">College of Arts &amp; Sciences</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/college-of-built-environments-2/" tabindex="-1"  title="College of Built Environments"  id="1181">College of Built Environments</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/college-of-education/" tabindex="-1"  title="College of Education"  id="1170">College of Education</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/college-of-engineering/" tabindex="-1"  title="College of Engineering"  id="1177">College of Engineering</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/college-of-the-environment/" tabindex="-1"  title="College of the Environment"  id="1176">College of the Environment</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-law/" tabindex="-1"  title="School of Law"  id="1171">School of Law</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/michael-g-foster-school-of-business/" tabindex="-1"  title="Michael G. Foster School of Business"  id="1172">Michael G. Foster School of Business</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-dentistry/" tabindex="-1"  title="School of Dentistry"  id="1173">School of Dentistry</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/graduate-school/" tabindex="-1"  title="Graduate School"  id="1441">Graduate School</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/the-information-school/" tabindex="-1"  title="The Information School"  id="1175">The Information School</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-medicine/" tabindex="-1"  title="School of Medicine"  id="1180">School of Medicine</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-nursing/" tabindex="-1"  title="School of Nursing"  id="1529">School of Nursing</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-pharmacy/" tabindex="-1"  title="School of Pharmacy"  id="1174">School of Pharmacy</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-public-health/" tabindex="-1"  title="School of Public Health"  id="1179">School of Public Health</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/evans-school-of-public-policy-and-governance/" tabindex="-1"  title="Evans School of Public Policy &amp; Governance"  id="1528">Evans School of Public Policy &amp; Governance</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-social-work/" tabindex="-1"  title="School of Social Work"  id="1169">School of Social Work</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/uw-bothell/" tabindex="-1"  title="UW Bothell"  id="1437">UW Bothell</a></li>
+	<li><a href="https://www.washington.edu/raceequity/school-and-college-profiles/uw-tacoma/" tabindex="-1"  title="UW Tacoma"  id="1438">UW Tacoma</a></li>
+</ul>
+</li>
+</ul></div></nav>
+
+<div class="uw-hero-image hero-height2 " style="background-image: url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2016/04/08160216/purple-bg.gif);">
+
+      <div class="container">
+        <div id="hashtag" class="mask"><span><span></span></span></div>
+
+        <h1 class="uw-site-title2">Race &amp; Equity at the UW</h1>
+        <span class="udub-slant"><span></span></span>
+              </div>
+</div>
+
+<div class="container uw-body">
+  <div class="row">
+    <div class="hero-content col-md-8 uw-content" role='main'>
+
+      <a href="https://www.washington.edu/raceequity/" title="Race &amp; Equity Initiative"><div class="uw-site-title">Race &amp; Equity Initiative</div></a>      <nav id="mobile-relative" class="frontpage" aria-label="mobile menu"><button class="uw-mobile-menu-toggle">Menu</button><ul class="uw-mobile-menu first-level"><div class="menu-race-equity-2016-container"><ul id="menu-race-equity-2017" class=""><li id="menu-item-744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-735 current_page_item menu-item-744"><a href="https://www.washington.edu/raceequity/">Home</a></li>
+<li id="menu-item-725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-725"><a href="https://www.washington.edu/raceequity/updates/">Actions and updates</a>
+<ul class="sub-menu">
+	<li id="menu-item-726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-726"><a href="https://www.washington.edu/raceequity/updates/bias-reporting-tools/">Bias reporting tools</a></li>
+	<li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727"><a href="https://www.washington.edu/raceequity/updates/climate-assessment/">Climate assessment</a></li>
+	<li id="menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-728"><a href="https://www.washington.edu/raceequity/updates/diversity-blueprint/">Diversity Blueprint</a></li>
+	<li id="menu-item-730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-730"><a href="https://www.washington.edu/raceequity/updates/faculty-recruitment/">Faculty recruitment</a></li>
+</ul>
+</li>
+<li id="menu-item-724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-724"><a href="https://www.washington.edu/raceequity/accountability/">Accountability</a></li>
+<li id="menu-item-734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-734"><a href="https://www.washington.edu/raceequity/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-1761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1761"><a href="https://www.washington.edu/raceequity/resources/anti-racism-resources/">Anti-Racism resources</a></li>
+	<li id="menu-item-1731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1731"><a href="https://www.washington.edu/raceequity/covid-19-student-resources/">Covid 19 – Student Resources</a></li>
+	<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-731"><a href="https://www.washington.edu/raceequity/resources/leadership-workshops/">Leadership workshops</a></li>
+</ul>
+</li>
+<li id="menu-item-1168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1168"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/">School and college profiles</a>
+<ul class="sub-menu">
+	<li id="menu-item-1178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1178"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/college-of-arts-sciences/">College of Arts &amp; Sciences</a></li>
+	<li id="menu-item-1181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1181"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/college-of-built-environments-2/">College of Built Environments</a></li>
+	<li id="menu-item-1170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1170"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/college-of-education/">College of Education</a></li>
+	<li id="menu-item-1177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1177"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/college-of-engineering/">College of Engineering</a></li>
+	<li id="menu-item-1176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1176"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/college-of-the-environment/">College of the Environment</a></li>
+	<li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1171"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-law/">School of Law</a></li>
+	<li id="menu-item-1172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1172"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/michael-g-foster-school-of-business/">Michael G. Foster School of Business</a></li>
+	<li id="menu-item-1173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1173"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-dentistry/">School of Dentistry</a></li>
+	<li id="menu-item-1441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1441"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/graduate-school/">Graduate School</a></li>
+	<li id="menu-item-1175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1175"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/the-information-school/">The Information School</a></li>
+	<li id="menu-item-1180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1180"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-medicine/">School of Medicine</a></li>
+	<li id="menu-item-1529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1529"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-nursing/">School of Nursing</a></li>
+	<li id="menu-item-1174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1174"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-pharmacy/">School of Pharmacy</a></li>
+	<li id="menu-item-1179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1179"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-public-health/">School of Public Health</a></li>
+	<li id="menu-item-1528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1528"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/evans-school-of-public-policy-and-governance/">Evans School of Public Policy &amp; Governance</a></li>
+	<li id="menu-item-1169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1169"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/school-of-social-work/">School of Social Work</a></li>
+	<li id="menu-item-1437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1437"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/uw-bothell/">UW Bothell</a></li>
+	<li id="menu-item-1438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1438"><a href="https://www.washington.edu/raceequity/school-and-college-profiles/uw-tacoma/">UW Tacoma</a></li>
+</ul>
+</li>
+</ul></div></ul></nav>      <nav class='uw-breadcrumbs' aria-label='breadcrumbs'><ul><li><a href="http://uw.edu" title="University of Washington">Home</a></li><li class="current"><a href="https://www.washington.edu/raceequity/" title="Race &amp; Equity Initiative">Race &amp; Equity Initiative</a><li></ul></nav>
+      <div id='main_content' class="uw-body-copy" tabindex="-1">
+
+
+
+
+
+
+
+
+<h2>This is not somebody else’s problem</h2>
+<p>President Ana Mari Cauce launched a Race and Equity Initiative in Spring 2015 with a challenge: that all of us &#8212; students, faculty, staff and university leadership &#8212; take personal responsibility for addressing our own biases and improving our university culture. And it began with a commitment: that together we would combat the racism and inequities, both individual and institutional, that persist here and throughout our society.</p>
+<p>This is what universities are all about. They are places of discovery and difficult conversations — where we learn new ways of looking at and acting in the world.</p>
+<p>This work – this struggle &#8212; is not new. UW faculty, staff and students and the rest of our collective society have been in it for many years and in many ways. But many in our community believe we have reached a moment where we must commit to collaborative, accelerated action.</p>
+<h2></h2>
+<h2>Diversity and equity for all</h2>
+<p>In order to support and sustain diversity and equity at the UW, as well as in the local, regional and global communities we serve, we must directly confront bias and racism at the individual, institutional and systemic levels. These are three key ways:</p>
+<ul>
+<li>Confronting individual bias and racism</li>
+<li>Transforming institutional policies and practices</li>
+<li>Accelerating systemic change</li>
+</ul>
+<p><a class="uw-btn btn-purple" href="http://uw.edu/raceequity/diversity-and-equity-for-all">Read more</a></p>
+<h2>Race &amp; Equity blog</h2>
+<ul class="shortcode-blogroll-mini">
+<li><a class='widget-thumbnail' href='https://www.washington.edu/raceequity/2020/10/13/for-ischool-scholar-art-holds-key-to-native-knowledge/'></a><a class='widget-link' href='https://www.washington.edu/raceequity/2020/10/13/for-ischool-scholar-art-holds-key-to-native-knowledge/'>FOR iSCHOOL SCHOLAR, ART HOLDS KEY TO NATIVE KNOWLEDGE<span><small>October 13, 2020</small></span></a></li>
+<li><a class='widget-thumbnail' href='https://www.washington.edu/raceequity/2020/08/19/uw-libraries-immigration-resources/'></a><a class='widget-link' href='https://www.washington.edu/raceequity/2020/08/19/uw-libraries-immigration-resources/'>UW Libraries Immigration Resources<span><small>August 19, 2020</small></span></a></li>
+<li><a class='widget-thumbnail' href='https://www.washington.edu/raceequity/2020/07/28/stronger-together-alumni-association-stories-and-resources/'></a><a class='widget-link' href='https://www.washington.edu/raceequity/2020/07/28/stronger-together-alumni-association-stories-and-resources/'>Stronger Together: Alumni Association Stories and Resources<span><small>July 28, 2020</small></span></a></li>
+</ul>
+<p><a class="uw-btn btn-purple" href="http://www.washington.edu/raceequity/category/updates/">More updates</a></p>
+<h2></h2>
+<div class="box-outer">
+<div class="box two box-none">
+<div class="tile">
+<p><a href="https://www.washington.edu/uwclimatesurvey/"><img class="wp-image-1775 size-medium alignnone" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16171755/UW-climate-survey-logo-300x300.png" alt="Your Voice, Your UW campus climate survey" width="300" height="300" srcset="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16171755/UW-climate-survey-logo-300x300.png 300w, https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16171755/UW-climate-survey-logo-150x150.png 150w, https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16171755/UW-climate-survey-logo-50x50.png 50w, https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16171755/UW-climate-survey-logo.png 320w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h3>Campus climate survey results</h3>
+<p>As part of our commitment to transparency and inclusivity, the UW has completed its largest-ever campus climate survey across all campuses. Current students, faculty and staff can <a href="https://www.washington.edu/uwclimatesurvey/">view executive summaries and campus-level reports</a>. A NetID login is required.</p>
+</div>
+<div class="tile">
+<p><a href="https://www.washington.edu/raceequity/2020/05/29/antiracism-work-is-all-of-our-work/"><img class="alignnone wp-image-1777 size-medium" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16172501/20090528_DP_0336-1-300x200.jpg" alt="" width="300" height="200" srcset="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16172501/20090528_DP_0336-1-300x200.jpg 300w, https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16172501/20090528_DP_0336-1-1024x683.jpg 1024w, https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16172501/20090528_DP_0336-1-375x250.jpg 375w, https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16172501/20090528_DP_0336-1-750x500.jpg 750w, https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2020/06/16172501/20090528_DP_0336-1-1140x760.jpg 1140w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h3>Anti-racism is all of our work</h3>
+<p><span class="TextRun SCXW13674603 BCX2" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW13674603 BCX2">UW leaders Rickey Hall, vice president for Minority Affairs &amp; Diversity and UW chief diversity officer</span></span><span class="TextRun SCXW13674603 BCX2" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW13674603 BCX2">, along with Wayne Au, acting dean of diversity and equity, UW Bothell and James McShay, assistant chancellor for equity and inclusion, UW Tacoma, send message about the <a href="https://www.washington.edu/raceequity/2020/05/29/antiracism-work-is-all-of-our-work/">work of anti-racism in our community</a></span></span><span class="TextRun SCXW13674603 BCX2" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW13674603 BCX2">.</span></span></p>
+</div>
+</div>
+</div>
+<p><a class="uw-btn btn-purple" href="https://www.washington.edu/raceequity/making-history">More stories</a></p>
+
+      </div>
+
+    </div>
+
+    <div id="sidebar">
+  <div class="col-md-4 uw-sidebar">
+    <nav id="desktop-relative" aria-label="mobile menu that is not visible in the desktop version"></nav>
+    <div role="navigation" aria-label="sidebar_navigation" id="uw-widget-cards-18" class="widget cards-widget">
+      <div class="default-card">
+
+      <div class='card-image' style='background-image:url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2019/01/24153605/Equity-Focus-Widget-Final.jpg      )'></div>
+
+      <span>
+      <h3>
+                <a href="http://www.washington.edu/diversity/equity-focus/" class="pic-title">VISIT OUR NEW STORY HUB!</a>
+              </h3>
+
+      <span class="udub-slant"><span></span></span>
+
+      <p>Students, faculty and staff across our three campuses are working hard to advance the values of diversity, equity and inclusion at the UW. This new site features some of the stories about our community members who are making a difference.</p>
+
+              <a href="http://www.washington.edu/diversity/equity-focus/" class="pic-text-more uw-btn btn-sm btn-gold">EQUITY FOCUS</a>
+            </span>
+
+
+
+      </div>
+
+    </div>
+    <div role="navigation" aria-label="sidebar_navigation" id="uw-widget-cards-16" class="widget cards-widget">
+      <div class="default-card">
+
+      <div class='card-image' style='background-image:url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/115/2016/04/08160210/student_grads_REI.jpg      )'></div>
+
+      <span>
+      <h3>
+                <a href="http://www.washington.edu/omad/" class="pic-title">Office of Minority Affairs and Diversity</a>
+              </h3>
+
+      <span class="udub-slant"><span></span></span>
+
+      <p>The University of Washington Office of Minority Affairs and Diversity (OMA&D) works to increase diversity on campus and enrich the collegiate experience of all UW students, faculty and staff.</p>
+
+              <a href="http://www.washington.edu/omad/" class="pic-text-more uw-btn btn-sm btn-gold">Learn more</a>
+            </span>
+
+
+
+      </div>
+
+    </div>
+    <div role="navigation" aria-label="sidebar_navigation" id="contact-list-4" class="widget contact-widget">
+    <div class="contact-widget-inner">
+      <span>
+
+            <h2 class="widgettitle">Contact us</h2>
+
+      </span>
+
+   <h3 class='person-name'></h3><p class='person-title'></p><p class='person-phone'></p><a href='mailto:equity@uw.edu'class='person-email'>equity@uw.edu</a>  </div>
+    </div><div role="navigation" aria-label="sidebar_navigation" id="text-6" class="widget widget_text"><h2 class="widgettitle">Calendar</h2>
+			<div class="textwidget"><script type="text/javascript" src="//www.trumba.com/scripts/spuds.js"></script><script type="text/javascript" id="trumba63">$Trumba.addSpud({webName:"sea_mor-raceequity",spudType:"upcoming",BorderColor:"#FFFFFF",marginTop:0,teaserBase:"https://www.washington.edu/raceequity/events/"});</script></div>
+		</div>  </div>
+
+</div>
+
+  </div>
+
+</div>
+
+    <div role="contentinfo" class="uw-footer">
+
+        <a href="http://www.washington.edu" class="footer-wordmark">University of Washington</a>
+
+        <a href="http://www.washington.edu/boundless/"><h3 class="be-boundless">Be boundless</h3></a>
+
+        <h4>Connect with us:</h4>
+
+        <nav aria-label="social networking">
+            <ul class="footer-social">
+                <li><a class="facebook" href="http://www.facebook.com/UofWA">Facebook</a></li>
+                <li><a class="twitter" href="http://twitter.com/UW">Twitter</a></li>
+                <li><a class="instagram" href="http://instagram.com/uofwa">Instagram</a></li>
+                <li><a class="youtube" href="http://www.youtube.com/user/uwhuskies">YouTube</a></li>
+                <li><a class="linkedin" href="http://www.linkedin.com/company/university-of-washington">LinkedIn</a></li>
+                <li><a class="pinterest" href="http://www.pinterest.com/uofwa/">Pinterest</a></li>
+            </ul>
+        </nav>
+
+        <nav aria-label="footer navigation">
+            <ul class="footer-links">
+                <li><a href="http://www.uw.edu/accessibility">Accessibility</a></li>
+                <li><a href="http://uw.edu/contact">Contact Us</a></li>
+                <li><a href="http://www.washington.edu/jobs">Jobs</a></li>
+                <li><a href="http://www.washington.edu/safety">Campus Safety</a></li>
+                <li><a href="http://my.uw.edu/">My UW</a></li>
+                <li><a href="http://www.washington.edu/rules/wac">Rules Docket</a></li>
+                <li><a href="http://www.washington.edu/online/privacy/">Privacy</a></li>
+                <li><a href="http://www.washington.edu/online/terms/">Terms</a></li>
+            </ul>
+        </nav>
+
+        <p>&copy; 2020 University of Washington  |  Seattle, WA</p>
+
+    </div>
+
+    </div><!-- #uw-container-inner -->
+    </div><!-- #uw-container -->
+
+<script type='text/javascript' src='//www.washington.edu/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.washington.edu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+
+</body>
+</html>

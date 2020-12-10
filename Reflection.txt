@@ -1,0 +1,114 @@
+REFLECTION
+Justina Gao, Joia Zhang 
+Group 198
+CSE 143 Final Project
+
+What did you learn during this project?
+===Justina=== 
+I definitely learned it the hard way that there are many helpful libraries out there.
+I also learned how to come up with alternative approach using the knowledge I have when encoutering
+a challenging problem.
+On the technical side, I learned more about html/css and how the internet and webpages
+work in general. I also got some experience with the Python url library, beautifulSoup, and running
+command lines in the terminal on my computer. 
+
+===Joia===
+The main focus of our project was the web scraping, since it was the main new component that we
+introduced to the search engine, which we have done a homework assignment on. Before this, I knew 
+nothing about html. I didn't even know that you could access any website's source code. I learned
+that real web crawlers are complex. They're cool, but complex. We were able to use a form of
+String manipulation to meet our web-crawling purposes. We managed to cook up programs that process the whole
+source code as a String and extract useful information from it instead a true webcrawler. I learned how 
+to use methods from the Jsoup library and how to connect the neccessary Jar file to jGRASP. 
+I got some more practice with println debugging. I practiced using increasingly complex test cases 
+to verify and challenge my code. I learned some basic syntax of python, and found that all of 
+the concepts we learned in Java, like Maps, have python equivalences. They are just called different
+names (I learned that Maps are called Dictionaries) and have a few different functionalities. 
+I learned that you can actually do a lot with 14x material. There will most likely be an existing
+library out there that can replace all of your code super elegantly, but those libraries probably
+implement 14x material themselves. I learned more about how to work on a coding project with a 
+partner and how extraordinarily fun it can be. We were not able to produce a fully working 
+search engine in the weeks that we worked on this project together, but I have learned so much
+from this project and enjoyed the whole ride. My partner and I are both looking forward to finishing
+this project over the winter break because it has become our baby.
+
+What did you enjoy during this project?
+===Justina=== 
+I could confidently say that I enjoyed every single second I spent on this project. I didn't have
+any coding experience until I took CSE 142 and I really loved being able to use what I learned
+in school to create something for the topics I feel passionate about. I really loved researching
+how to do things/following tutorials, even though a lot of them didn't end up working and were
+too advanced for me to understand lol.
+I'm also super proud of myself for building the linkExtractor.java using everything I learned in 14X :)
+Writing HTML/CSS code on CodePen.io was also super enjoyable because I got to see our 
+little graphic representation coming together (I felt like a proud mother)
+Also I really enjoyed hanging with Joia, Patrick the TA, and Nalu the TA in IPL.
+
+===Joia===
+I really enjoyed working on this project. I found it so exciting how there is a huge online community of
+programmers that publish helpful resources from how to download a specific library, to the syntax
+and functionality of a data structure, to what an error message means. I came into this project with
+only 14x knowledge as well and I was pleasantly suprised how much we could actually do it. I really
+enjoyed the process of thinking about the project: thinking about what components the project needs,
+how each of the components will work together, and how ideas translate into code. And of course,
+I loved working on this project with my partner Justina who is extremely hardworking and talented. We
+hit up the IPL often and hung out with many of the awesome TAs of 143.
+
+What did you find challenging or frustrating during this project?
+===Justina===
+To be honest, I was kinda frustrated with myself for not knowing how to do a lot of stuff :( 
+When we first started working on the project, we followed along some webcrawling tutorials 
+but then realized it was too advanced for us. Coming up with an alternative approach using
+the knowledge we learned in class was quite challenging because we have a very ambitious goal
+but limited knowledge. Another frustration I had was after writing the linkExtractor.java, I learned
+that the python library could achieve very similar goals with under 10 lines of codes. (oh well)
+
+===Joia===
+Error messages that had to do with my computer being unable to find a library or system
+related errors were the most frustrating for me. Debugging this felt more tedious than the
+other forms of debugging, but this, of course, is an integral part of the experience of 
+programming. At the end of the day, I learned more about how my computer works, that a 
+path needs to be created to use a Jar file in jGRASP, and many system details of the sort.
+I also learned of the names of other GUIs besides jGRASP. I might download myself an update.
+
+What did you find particularly helpful for your learning during this project?
+===Justina===
+The TAs at IPL are very helpful for my learning during this project. They're 
+always super patient! W3 Schools and Stack Overflow are also super helpful because
+I got to learn new things from people online :) Many online tutorials are also 
+very helpful and we made sure to include the sources in our code :)
+
+===Joia===
+The TAs for sure. We went to the IPL throughout the weeks that we worked on this project.
+I was really impressed by the breadth of computer science knowledge that our TAs have. 
+Many of them are familiar with Python, Mac OS Terminal, and the libraries that we used,
+and all can debug like wizards. The internet is a good resource as well, but the internet
+doesn't have the level of personalized help that the IPL provided. I did learn a lot by 
+reading documentation of libraries and their methods, learning about html, and how to connect 
+code with the web.
+
+
+What We Would Do Next
+--------------------------------------------------------------------------------
+Turns out, we had a lot of fun working on this project. We learned a lot.
+We learned basics of a new programming language, Python, worsened our 
+eyesight from staring at our computers, risked downloading viruses
+when searching for libraries to use, and grew tremendously from a process
+of trial and error. 
+
+Our group wants to see our project to the end to its fruition. So we'll
+be continuing to work on it over winter break. Our next steps are as follows:
+
+- Our various programs are written in both Java and Python, so we would like 
+  to write them all in python. This way, we can run them all in the same main method
+  and publish the finalized code to GitHub. (Rest assured, we know not to publish
+  our Java version of Search Engine)
+
+- Connect the different pieces of the program, so they can all be at the same time
+  in a main method. 
+
+- Produce a working website for the search engine
+
+- Add additional functionalities such as sorting by date, or applying search filters such
+  as campus or issue
+

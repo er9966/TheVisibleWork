@@ -1,0 +1,96 @@
+DESIGN DOCUMENTATION
+Justina Gao, Joia Zhang 
+Group 198
+CSE 143 Final Project
+
+Hi you wonderful human being. 
+Thank you for reading this and thank you for being interested in our project. 
+
+The major focus of our project was using web-scraping to gather a 
+collection of websites that would make up the repository of the 
+search engine. Other components of our project include the alogrithm 
+for the search engine itself, as well as a graphic user interface 
+in the form of a website.
+
+We underwent a long process of trial and error. Unsuccessfull attempts are labeled with "(Attempted)"
+We’re deeply sorry for the overwhelming amount of files 
+and we hope this explanation will make it easier for you to understand our programs :) 
+The following instructions are organized by folder names:
+
+----------------Folder: linkExtractor/Java----------------  
+(1) DiversitySourceCode.txt and EquitySourceCode.txt - 
+        could be used as an input file for linkExtractorMain.java
+
+(2) linkExtractor.java -   
+        A Set is used to store the output links to eliminate repitition
+        Scanner and line-based processing is used to process input .txt file
+        String manipulation is used to extract links out of the html source code
+        PrintStream Class is used to produce a .txt file
+
+(3) linkExtractorMain.java - 
+       -The main method using the linkExtractor class 
+       -Scanner is used for processing user input
+
+----------------Folder: linkExtractor/Python----------------
+(NOTE: We have super limited knowledge in Python so we used a LOT of internet resources for this folder.)
+
+(1) BeautifulSoup.py - BeautifulSoup library code, downloaded from the internet
+
+(2) getLinks.py - python version of a link extractor, and it only has about 8 lines of code :(
+                  Using urlib and beautifulSoup
+                  (from online source)
+
+(3) getOneSourceCode.py -  using urlib2 to obtain source code of a website 
+
+(4) (Attempted)getSourceCode.py - Our attempt of modifying getOneSourceCode.py    
+        Using a for loop, reads each url in the .txt file
+        For each url, this program produces the source code for the url.
+        SSL Certificate error keeps popping up, we (and Sajana, Joanie, and Nalu)tried :(
+
+----------------Folder: link extractor/crawler---------------- 
+(1)(Attempted)creekJoia.java - an unsucessful attempt of following a web crawler tutorial. 
+                    Learned that SQL can be integrated with Java code though!
+(2)(Attempted)creekJustina.java - My attempt of trying to follow along a web crawling tutorial. 
+        And it was too complicated so I gave up and wrote linkExtractor.java
+
+----------------Folder: word extractor---------------- 
+(1) (Attempted)WebToTxt.java - Unsucessful attempt of using only 14x material to write a program
+                    that takes in source code, filters out the html code, and produces
+                    a file with only the actual text on the website
+(2) WordExtractor.java - 
+
+        ===Fields=== 
+        String html: the whole entire html source code combined 
+                     into one String (I could not find another work around)
+        String outputName: the name of the file to write the website's
+                           words into 
+        ===Constructor===
+        There is one constructor that takes in 1) the name of a file containing
+        html source code and 2) the name of the output file to write to. It calls
+        a private helper method called htmlFromFile(String fileName) whose
+        return value becomes the field String html
+
+        ===Methods===
+        htmlFromFile: private helper that takes in the name of the file containing 
+                      html source code and returns a String form of the entire file
+                      using a while loop and string concatenation.
+
+        write: public method that takes in the name of the output file to write the 
+               website's words to. Does so using a PrinStream object to write to
+               the file and the parse method of the Jsoup library.
+(3) file1.txt - test case 1 which is a short contrived html source code example
+(4) output1.txt - output of running the write method of the WordExtractor class on file1.txt. 
+                  It is correct.
+(5) DiversitySourceCode.txt - test case 2 which is a sample source code produced by getSourceCode.py
+(6) DiversitySourceCodeOutput.txt - result of running the write method of the WordExtractor class on
+                                    DiversitySourceCode. It is correct, although the text is all in one line.
+
+----------------Folder: GUI---------------- 
+
+(1)myStyle.css - the css stylesheet for our (not complete) web app. 
+Shoutout to W3 Schools for all the amazing resources.
+
+(2) search.html - html code for our (not complete) web app. 
+Shoutout to W3 Schools and the template provided in class.
+I couldn’t get the image to scale to the size of your screen lol. It looks
+

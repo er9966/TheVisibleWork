@@ -1,0 +1,439 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js">
+    <head>
+        <title> Diversity at the UW </title>
+        <meta charset="utf-8">
+        <meta name="description" content="University of Washington">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='//www.washington.edu' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Diversity at the UW &raquo; Feed" href="https://www.washington.edu/diversity/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Diversity at the UW &raquo; Comments Feed" href="https://www.washington.edu/diversity/comments/feed/" />
+<meta property="og:image" content="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06195755/diversity-homepage-1024x220.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@uw" />
+<meta name="twitter:creator" content="@uw" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="Diversity at the UW" />
+<meta property="og:url" content="https://www.washington.edu/diversity/" />
+<meta property="og:site_name" content="Diversity at the UW" />
+<meta property="og:description" content="Explore diversity
+" />
+
+
+<link rel='stylesheet' id='contact-form-7-css'  href='//www.washington.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='uw-master-css'  href='//www.washington.edu/wp-content/themes/uw-2014/style.css?ver=2.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-open-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;ver=3.6' type='text/css' media='all' />
+<script type='text/javascript' src='//www.washington.edu/wp-content/themes/uw-2014/js/libraries/jquery.min.js?ver=1.11.3'></script>
+<script type='text/javascript' src='//www.washington.edu/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.5'></script>
+<script type='text/javascript' src='//www.washington.edu/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='//www.washington.edu/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var style_dir = "https:\/\/www.washington.edu\/cms\/diversity";
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/www.washington.edu\/cms\/diversity\/wp-admin\/admin-ajax.php","nonce":"1337f78bea","display_exif":"1","display_geo":"","background_color":"white","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","require_name_email":"1","login_url":"https:\/\/www.washington.edu\/cms\/diversity\/wp-login.php?redirect_to=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fdiversity%2F"};
+var apiKey = {"local":"","network":"AIzaSyAtyy_XX9al6Xyq2KVHt8q949BkAwsI48c"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.washington.edu/wp-content/themes/uw-2014/js/site.js?ver=2.2.7'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.washington.edu/diversity/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//www.washington.edu/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.15" />
+<link rel="canonical" href="https://www.washington.edu/diversity/" />
+<link rel='shortlink' href='https://www.washington.edu/diversity/' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = {"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"nwinkelb"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQ6QQBT');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+        <!--[if lt IE 9]>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/html5shiv.js" type="text/javascript"></script>
+            <script src="//www.washington.edu/wp-content/themes/uw-2014/assets/ie/js/respond.js" type="text/javascript"></script>
+            <link rel='stylesheet' href='//www.washington.edu/wp-content/themes/uw-2014/assets/ie/css/ie.css' type='text/css' media='all' />
+        <![endif]-->
+
+
+    </head>
+    <!--[if lt IE 9]> <body class="home page-template page-template-templates page-template-template-big-hero page-template-big-hero page page-id-3223 lt-ie9 site-diversity ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQ6QQBT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><br style="display:none;"> <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <body class="home page-template page-template-templates page-template-template-big-hero page-template-big-hero page page-id-3223 site-diversity ">
+<!-- Google Tag Manager (noscript) --><br style="display:none;" >
+    <!--<![endif]-->
+
+    <div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container"></div>
+
+    <a id="main-content" href="#main_content" class="screen-reader-shortcut">Skip to main content</a>
+
+    <div id="uw-container">
+
+    <div id="uw-container-inner">
+
+
+    <header class="uw-thinstrip" role="banner">
+
+  <div class="container">
+    <a href="http://uw.edu" title="University of Washington Home" class="uw-patch">University of Washington</a>
+    <a href="http://uw.edu" title="University of Washington Home" class="uw-wordmark" tabindex='-1' aria-hidden='true'>University of Washington</a>
+  </div>
+  <div class='align-right'>
+      <nav class="uw-thin-strip-nav" aria-label='audience menu'>
+          <ul class="uw-thin-links">
+            <li><a href="http://uw.edu/studentlife" title="Students">Students</a></li>
+            <li><a href="http://uw.edu/parents" title="Parents">Parents</a></li>
+            <li><a href="http://uw.edu/facultystaff" title="Faculty & Staff">Faculty & Staff</a></li>
+            <li><a href="http://uw.edu/alumni" title="Alumni">Alumni</a></li>
+          </ul>
+      </nav>
+      <nav id='search-quicklinks' aria-label='search and quick links'>
+      <button class='uw-search' aria-owns='uwsearcharea' aria-controls='uwsearcharea' aria-expanded='false' aria-label='open search area' aria-haspopup='true'>
+<!--[if gt IE 8]><!-->
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               width="19px" height="51px" viewBox="0 0 18.776 51.062" enable-background="new 0 0 18.776 51.062" xml:space="preserve" focusable="false">
+          <g>
+              <path fill="#FFFFFF" d="M3.537,7.591C3.537,3.405,6.94,0,11.128,0c4.188,0,7.595,3.406,7.595,7.591
+                c0,4.187-3.406,7.593-7.595,7.593C6.94,15.185,3.537,11.778,3.537,7.591z M5.245,7.591c0,3.246,2.643,5.885,5.884,5.885
+                c3.244,0,5.89-2.64,5.89-5.885c0-3.245-2.646-5.882-5.89-5.882C7.883,1.71,5.245,4.348,5.245,7.591z"/>
+
+              <rect x="2.418" y="11.445" transform="matrix(0.7066 0.7076 -0.7076 0.7066 11.7842 2.0922)" fill="#FFFFFF" width="1.902" height="7.622"/>
+          </g>
+          <path fill="#FFFFFF" d="M3.501,47.864c0.19,0.194,0.443,0.29,0.694,0.29c0.251,0,0.502-0.096,0.695-0.29l5.691-5.691l5.692,5.691
+              c0.192,0.194,0.443,0.29,0.695,0.29c0.25,0,0.503-0.096,0.694-0.29c0.385-0.382,0.385-1.003,0-1.388l-5.692-5.691l5.692-5.692
+              c0.385-0.385,0.385-1.005,0-1.388c-0.383-0.385-1.004-0.385-1.389,0l-5.692,5.691L4.89,33.705c-0.385-0.385-1.006-0.385-1.389,0
+              c-0.385,0.383-0.385,1.003,0,1.388l5.692,5.692l-5.692,5.691C3.116,46.861,3.116,47.482,3.501,47.864z"/>
+          </svg>
+<!--<![endif]-->
+      </button>
+      <button class='uw-quicklinks' aria-haspopup='true' aria-expanded="false" aria-label="Open quick links">Quick Links<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="15.63px" height="69.13px" viewBox="0 0 15.63 69.13" enable-background="new 0 0 15.63 69.13" xml:space="preserve" focusable="false"><polygon fill="#FFFFFF" points="12.8,7.776 12.803,7.773 5.424,0 3.766,1.573 9.65,7.776 3.766,13.98 5.424,15.553 12.803,7.78"/><polygon fill="#FFFFFF" points="9.037,61.351 9.036,61.351 14.918,55.15 13.26,53.577 7.459,59.689 1.658,53.577 0,55.15 5.882,61.351 5.882,61.351 5.884,61.353 0,67.557 1.658,69.13 7.459,63.019 13.26,69.13 14.918,67.557 9.034,61.353"/></svg></button>
+      </nav>
+  </div>
+
+</header>
+
+    <nav id="dawgdrops" aria-label="Main menu"><div class="dawgdrops-inner container"><ul id="menu-diversity-nav-alt-version" class="dawgdrops-nav"><li class="dawgdrops-item"><a href="http://www.uw.edu/diversity#explore" class="dropdown-toggle" title="Explore diversity"  id="explore-diversity">Explore diversity</a>
+<button data-toggle="dropdown" aria-controls="menu-explore-diversity" aria-labelledby="explore-diversity"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-explore-diversity" aria-labelledby='explore-diversity' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/diversity/learning-about-difference/" tabindex="-1"  title="Learning About Difference"  id="3247">Learning About Difference</a></li>
+	<li><a href="https://www.washington.edu/diversity/makingchange/" tabindex="-1"  title="Making Change, Transforming Lives"  id="3248">Making Change, Transforming Lives</a></li>
+	<li><a href="https://www.washington.edu/diversity/world-changing-research/" tabindex="-1"  title="World Changing Research"  id="3249">World Changing Research</a></li>
+	<li><a href="https://www.washington.edu/diversity/cdo/" tabindex="-1"  title="University Diversity Officer"  id="3250">University Diversity Officer</a></li>
+	<li><a href="http://www.washington.edu/omad/" tabindex="-1"  title="Office of Minority Affairs &amp; Diversity"  id="office-of-minority-affairs-diversity">Office of Minority Affairs &amp; Diversity</a></li>
+	<li><a href="http://grad.uw.edu/diversity/go-map" tabindex="-1"  title="Graduate Opportunities &amp; Minority Achievement Program"  id="graduate-opportunities-minority-achievement-program">Graduate Opportunities &amp; Minority Achievement Program</a></li>
+	<li><a href="https://www.washington.edu/raceequity/" tabindex="-1"  title="UW Race &amp; Equity Initiative"  id="uw-race-equity-initiative">UW Race &amp; Equity Initiative</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="http://www.uw.edu/diversity#resources" class="dropdown-toggle" title="Resources"  id="resources-3">Resources</a>
+<button data-toggle="dropdown" aria-controls="menu-resources-3" aria-labelledby="resources-3"><i class="icon-chevron-down"></i></button>
+<ul role="group" id="menu-resources-3" aria-labelledby='resources-3' class="dawgdrops-menu">
+	<li><a href="https://www.washington.edu/diversity/administrators/" tabindex="-1"  title="Administrators"  id="3242">Administrators</a></li>
+	<li><a href="https://www.washington.edu/diversity/alumni-community/" tabindex="-1"  title="Alumni &amp; community"  id="3243">Alumni &amp; community</a></li>
+	<li><a href="https://www.washington.edu/diversity/current-students/" tabindex="-1"  title="Current students"  id="3245">Current students</a></li>
+	<li><a href="https://www.washington.edu/diversity/faculty-staff/" tabindex="-1"  title="Faculty &amp; staff"  id="3244">Faculty &amp; staff</a></li>
+	<li><a href="https://www.washington.edu/diversity/future-students/" tabindex="-1"  title="Future students"  id="3246">Future students</a></li>
+	<li><a href="https://www.washington.edu/diversity/uw-schools-and-colleges/" tabindex="-1"  title="Schools &amp; colleges"  id="schools-colleges">Schools &amp; colleges</a></li>
+	<li><a href="http://www.bothell.washington.edu/diversity" tabindex="-1"  title="Diversity at UW Bothell"  id="diversity-at-uw-bothell">Diversity at UW Bothell</a></li>
+	<li><a href="http://www.tacoma.uw.edu/node/38788" tabindex="-1"  title="Diversity at UW Tacoma"  id="diversity-at-uw-tacoma">Diversity at UW Tacoma</a></li>
+</ul>
+</li>
+<li class="dawgdrops-item"><a href="https://www.washington.edu/omad/advancement/" title="Support diversity"  id="support-diversity">Support diversity</a></li>
+</ul></div></nav>
+
+<div class="uw-hero-image hero-height " style="background-image: url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06195755/diversity-homepage.jpg);">
+        <div id="hero-bg">
+      <div id="hero-container" class="container">
+              <h1 class="uw-site-title">Diversity at the UW</h1>
+        <span class="udub-slant"><span></span></span>
+            </div>
+    </div>
+</div>
+
+<div class="container uw-body">
+
+  <div class="row">
+
+    <div class="hero-content col-md-8 uw-content" role='main'>
+
+      <a href="https://www.washington.edu/diversity/" title="Diversity at the UW"><div class="uw-site-title">Diversity at the UW</div></a>      <nav id="mobile-relative" class="frontpage" aria-label="mobile menu"><button class="uw-mobile-menu-toggle">Menu</button><ul class="uw-mobile-menu first-level"><div class="menu-diversity-nav-alt-version-container"><ul id="menu-diversity-nav-alt-version-1" class=""><li id="menu-item-3063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3063"><a href="http://www.uw.edu/diversity#explore">Explore diversity</a>
+<ul class="sub-menu">
+	<li id="menu-item-3247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3247"><a href="https://www.washington.edu/diversity/learning-about-difference/">Learning About Difference</a></li>
+	<li id="menu-item-3248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3248"><a href="https://www.washington.edu/diversity/makingchange/">Making Change, Transforming Lives</a></li>
+	<li id="menu-item-3249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3249"><a href="https://www.washington.edu/diversity/world-changing-research/">World Changing Research</a></li>
+	<li id="menu-item-3250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3250"><a href="https://www.washington.edu/diversity/cdo/">University Diversity Officer</a></li>
+	<li id="menu-item-3062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3062"><a href="http://www.washington.edu/omad/">Office of Minority Affairs &amp; Diversity</a></li>
+	<li id="menu-item-4622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4622"><a href="http://grad.uw.edu/diversity/go-map">Graduate Opportunities &amp; Minority Achievement Program</a></li>
+	<li id="menu-item-4975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4975"><a href="https://www.washington.edu/raceequity/">UW Race &amp; Equity Initiative</a></li>
+</ul>
+</li>
+<li id="menu-item-3059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3059"><a href="http://www.uw.edu/diversity#resources">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-3242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3242"><a href="https://www.washington.edu/diversity/administrators/">Administrators</a></li>
+	<li id="menu-item-3243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3243"><a href="https://www.washington.edu/diversity/alumni-community/">Alumni &amp; community</a></li>
+	<li id="menu-item-3245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3245"><a href="https://www.washington.edu/diversity/current-students/">Current students</a></li>
+	<li id="menu-item-3244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3244"><a href="https://www.washington.edu/diversity/faculty-staff/">Faculty &amp; staff</a></li>
+	<li id="menu-item-3246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3246"><a href="https://www.washington.edu/diversity/future-students/">Future students</a></li>
+	<li id="menu-item-3241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3241"><a href="https://www.washington.edu/diversity/uw-schools-and-colleges/">Schools &amp; colleges</a></li>
+	<li id="menu-item-3064" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3064"><a href="http://www.bothell.washington.edu/diversity">Diversity at UW Bothell</a></li>
+	<li id="menu-item-3065" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3065"><a href="http://www.tacoma.uw.edu/node/38788">Diversity at UW Tacoma</a></li>
+</ul>
+</li>
+<li id="menu-item-3060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3060"><a href="https://www.washington.edu/omad/advancement/">Support diversity</a></li>
+</ul></div></ul></nav>      <nav class='uw-breadcrumbs' aria-label='breadcrumbs'><ul><li><a href="http://uw.edu" title="University of Washington">Home</a></li><li class="current"><a href="https://www.washington.edu/diversity/" title="Diversity at the UW">Diversity at the UW</a><li></ul></nav>
+      <div id='main_content' class="uw-body-copy" tabindex="-1">
+
+
+
+
+<hr />
+<p><a name="explore"></a></p>
+<h2>Explore diversity</h2>
+<div class="row">
+<div class="col-md-11">
+<p class="intro">At the University of Washington, diversity is integral to excellence. We value and honor diverse experiences and perspectives, strive to create welcoming and respectful learning environments, and promote access, opportunity and justice for all.</p>
+</div>
+</div>
+<div class="box-outer">
+<div class="box three box-none">
+<div class="tile">
+<div><a href="https://www.washington.edu/diversity/learning-about-difference/"><img class="size-half wp-image-2998 alignnone" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06195851/GO-MAP_2-375x250.jpg" alt="GO-MAP_2" width="375" height="250" /></a></div>
+<h3><a title="Creating New Knowledge, Learning About Difference" href="http://www.washington.edu/diversity/learning-about-difference/">Learning about difference</a></h3>
+<p>The study of diversity fosters an understanding of cultural traditions, histories and influences.</p>
+</div>
+<div class="tile">
+<div><a href="https://www.washington.edu/diversity/makingchange/"><img class="alignnone wp-image-3101 size-half" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06201030/Mochi-Lab-375x250.jpg" alt="Mochi-Lab" width="375" height="250" /></a></div>
+<h3><a title="Making Change, Transforming Lives" href="http://www.washington.edu/diversity/makingchange/">Making change, transforming lives</a></h3>
+<p>Students, faculty and staff strive to improve the well-being of our communities.</p>
+</div>
+<div class="tile">
+<div><a href="http://www.washington.edu/diversity/world-changing-research/"><img class="alignnone wp-image-3103 size-half" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06201144/angelina-godoy-375x250.jpg" alt="Angelina Godoy" width="375" height="250" /></a></div>
+<h3><a href="http://www.washington.edu/diversity/world-changing-research/">World changing research</a></h3>
+<p>UW faculty conduct research on the benefits of cultural diversity, as well as its challenges.</p>
+</div>
+</div>
+</div>
+<hr />
+<div id="attachment_2985" class="wp-caption alignright" style="width: 385px"><a href="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06195738/Rickey_Hall_1086-Edit_diversityhomepage.jpg"><img  src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06195738/Rickey_Hall_1086-Edit_diversityhomepage.jpg" alt="Headshot of Rickey Hall for Diversity Homepage" width="375" height="307" /></a></p>
+<p class="wp-caption-text">Rickey Hall</span></p>
+</div>
+<h3>Leadership</h3>
+<p>Vice President for Minority Affairs &amp; Diversity Rickey Hall is the <strong><a href="http://www.washington.edu/diversity/cdo/">university diversity officer</a></strong> at the University of Washington. Hall has oversight of the UW’s progress in diversity, as well as programs administered by the <strong><a href="http://www.uw.edu/omad/">Office of Minority Affairs &amp; Diversity</a></strong>.</p>
+<p><a class="uw-btn btn-sm btn-none" href="http://www.washington.edu/diversity/cdo/">Diversity leadership</a></p>
+<hr />
+<p><a name="resources"></a></p>
+<h2>Resources</h2>
+<div class="box-outer">
+<div class="box three box-none">
+<div class="tile">
+<div><a href="http://www.washington.edu/diversity/future-students/"><img class="size-half wp-image-2994 alignnone" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06200115/future-students-375x250.jpg" alt="future students" width="375" height="250" /></a></div>
+<h3><a href="http://www.washington.edu/diversity/future-students/">Future students</a></h3>
+<p>Learn about programs that prepare K-14 students for college admission.</p>
+</div>
+<div class="tile">
+<div><a href="http://www.washington.edu/diversity/current-students/"><img class="wp-image-2992 size-half alignnone" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06200231/current-students-e1451504091919-375x250.jpg" alt="current students" width="375" height="250" /></a></div>
+<h3><a href="http://www.washington.edu/diversity/current-students/">Current students</a></h3>
+<p>Explore services that support students throughout their Husky Experience.</p>
+</div>
+<div class="tile">
+<div><a href="http://www.washington.edu/diversity/faculty-staff/"><img class="wp-image-2993 size-half alignnone" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06200144/faculty-e1451503995876-375x250.jpg" alt="Samuel Kelly Lecture with Shawn Wong, and reception on 4-16-15 (C) 2015 Karen Orders Photography" width="375" height="250" /></a></div>
+<h3><a href="http://www.washington.edu/diversity/faculty-staff/">Faculty &amp; staff</a></h3>
+<p>Discover diversity-related resources for faculty and staff.</p>
+</div>
+</div>
+</div>
+<div class="box-outer">
+<div class="box three box-none">
+<div class="tile">
+<div><a href="http://www.washington.edu/diversity/alumni-community/"><img class="wp-image-2991 size-half alignnone" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06200344/alumni-community-e1451504020214-375x250.jpg" alt="alumni-community" width="375" height="250" /></a></div>
+<h3><a href="http://www.washington.edu/diversity/alumni-community/">Alumni &amp; community</a></h3>
+<p>Find out about community partnerships, engagement opportunities and alumni news.</p>
+</div>
+<div class="tile">
+<div><a href="http://www.washington.edu/diversity/administrators/"><img class="wp-image-2990 size-half alignnone" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06200434/administrators-e1451504055850-375x250.jpg" alt="UW Office of Minority Affairs and Diversity Symposium on 1-30-15 at Kelley Ethnic Cultural Center (C) 2015 Karen Orders Photography" width="375" height="250" /></a></div>
+<h3><a href="http://www.washington.edu/diversity/administrators/">Administrators</a></h3>
+<p>Access policies and procedures that enhance diversity across campus.</p>
+</div>
+<div class="tile">
+<div><a href="http://www.washington.edu/diversity/uw-schools-and-colleges/"><img class="alignnone size-half wp-image-2997" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06195913/GO-MAP_1-375x252.jpg" alt="GO-MAP_1" width="375" height="252" /></a></div>
+<h3><a href="http://www.washington.edu/diversity/uw-schools-and-colleges/">UW schools &amp; colleges</a></h3>
+<p>Explore resources specific to colleges and schools on the Seattle campus.</p>
+</div>
+</div>
+</div>
+<div class="box-outer">
+<div class="box two box-none">
+<div class="tile">
+<div><a href="http://www.bothell.washington.edu/diversity"><img class="wp-image-3031 size-half alignnone" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06200915/uw-bothell-diversity-e1451504126550-375x249.jpg" alt="uw-bothell-diversity" width="375" height="249" /></a></div>
+<h3><a href="http://www.bothell.washington.edu/diversity">Diversity at UW Bothell</a></h3>
+<p>Explore diversity resources specific to the UW Bothell campus.</p>
+</div>
+<div class="tile">
+<div><a href="http://www.tacoma.uw.edu/diversity"><img class="wp-image-3032 size-half alignnone" src="https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2016/01/06200848/uw-tacoma-diversity-e1451504170157-375x250.jpg" alt="uw-tacoma-diversity" width="375" height="250" /></a></div>
+<h3><a href="http://www.tacoma.uw.edu/diversity">Diversity at UW Tacoma</a></h3>
+<p>Explore diversity resources specific to the UW Tacoma campus.</p>
+</div>
+</div>
+</div>
+
+
+
+
+      </div>
+
+    </div>
+
+
+
+
+          <div id="sidebar">
+
+  <div class="col-md-4 uw-sidebar">
+    <nav id="desktop-relative" aria-label="mobile menu that is not visible in the desktop version"></nav>
+    <div role="navigation" aria-label="sidebar_navigation" id="uw-widget-cards-10" class="widget cards-widget">
+      <div class="default-card">
+
+      <div class='card-image' style='background-image:url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2019/01/24224604/Equity-Focus-Widget-Final-02.jpg      )'></div>
+
+      <span>
+      <h3>
+                <a href="http://www.washington.edu/diversity/equity-focus/" class="pic-title">VISIT OUR STORY HUB!</a>
+              </h3>
+
+      <span class="udub-slant"><span></span></span>
+
+      <p>Students, faculty and staff across our three campuses are working hard to advance the values of diversity, equity and inclusion at the UW. This site features some of the stories about our community members who are making a difference.</p>
+
+              <a href="http://www.washington.edu/diversity/equity-focus/" class="pic-text-more uw-btn btn-sm btn-gold">EQUITY FOCUS</a>
+            </span>
+
+
+
+      </div>
+
+    </div>
+    <div role="navigation" aria-label="sidebar_navigation" id="uw-widget-cards-4" class="widget cards-widget">
+      <div class="default-card">
+
+      <div class='card-image' style='background-image:url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2017/01/06195720/17_REI-DiversityBlueprint-0109-002-1-e1484332129271.png      )'></div>
+
+      <span>
+      <h3>
+                <a href="http://www.washington.edu/diversity/diversity-blueprint/" class="pic-title">Diversity Blueprint</a>
+              </h3>
+
+      <span class="udub-slant"><span></span></span>
+
+      <p>The Blueprint is available for academic and administrative units to use as a framework for guiding the UW toward achieving its stated goals for diversity and inclusion.</p>
+
+              <a href="http://www.washington.edu/diversity/diversity-blueprint/" class="pic-text-more uw-btn btn-sm btn-gold">Diversity Blueprint</a>
+            </span>
+
+
+
+      </div>
+
+    </div>
+    <div role="navigation" aria-label="sidebar_navigation" id="uw-widget-cards-5" class="widget cards-widget">
+      <div class="default-card">
+
+      <div class='card-image' style='background-image:url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/48/2017/09/06195712/W-Logo_Purple_20171.png      )'></div>
+
+      <span>
+      <h3>
+                <a href="http://www.washington.edu/omad/daca-faq/" class="pic-title">DACA FAQ</a>
+              </h3>
+
+      <span class="udub-slant"><span></span></span>
+
+      <p>Members of the campus community can access information on the rescission of the Deferred Action for Childhood Arrivals (DACA) program in a document that outlines Frequently Asked Questions.</p>
+
+              <a href="http://www.washington.edu/omad/daca-faq/" class="pic-text-more uw-btn btn-sm btn-gold">Read FAQ</a>
+            </span>
+
+
+
+      </div>
+
+    </div>  </div>
+
+      </div>
+  </div>
+
+</div>
+
+
+
+
+    <div role="contentinfo" class="uw-footer">
+
+        <a href="http://www.washington.edu" class="footer-wordmark">University of Washington</a>
+
+        <a href="http://www.washington.edu/boundless/"><h3 class="be-boundless">Be boundless</h3></a>
+
+        <h4>Connect with us:</h4>
+
+        <nav aria-label="social networking">
+            <ul class="footer-social">
+                <li><a class="facebook" href="http://www.facebook.com/UofWA">Facebook</a></li>
+                <li><a class="twitter" href="http://twitter.com/UW">Twitter</a></li>
+                <li><a class="instagram" href="http://instagram.com/uofwa">Instagram</a></li>
+                <li><a class="youtube" href="http://www.youtube.com/user/uwhuskies">YouTube</a></li>
+                <li><a class="linkedin" href="http://www.linkedin.com/company/university-of-washington">LinkedIn</a></li>
+                <li><a class="pinterest" href="http://www.pinterest.com/uofwa/">Pinterest</a></li>
+            </ul>
+        </nav>
+
+        <nav aria-label="footer navigation">
+            <ul class="footer-links">
+                <li><a href="http://www.uw.edu/accessibility">Accessibility</a></li>
+                <li><a href="http://uw.edu/contact">Contact Us</a></li>
+                <li><a href="http://www.washington.edu/jobs">Jobs</a></li>
+                <li><a href="http://www.washington.edu/safety">Campus Safety</a></li>
+                <li><a href="http://my.uw.edu/">My UW</a></li>
+                <li><a href="http://www.washington.edu/rules/wac">Rules Docket</a></li>
+                <li><a href="http://www.washington.edu/online/privacy/">Privacy</a></li>
+                <li><a href="http://www.washington.edu/online/terms/">Terms</a></li>
+            </ul>
+        </nav>
+
+        <p>&copy; 2020 University of Washington  |  Seattle, WA</p>
+
+    </div>
+
+    </div><!-- #uw-container-inner -->
+    </div><!-- #uw-container -->
+
+<script type='text/javascript' src='//www.washington.edu/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.washington.edu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+
+</body>
+</html>
+

@@ -1,0 +1,82 @@
+<!-- IMPORTANT NOTE: 
+This is a sample of what the result of calling 
+.export method with UWDiversity.txt (see linkExtractor.java) would look like with
+word filter "diversity" and "edu" -->
+
+http://www.tacoma.uw.edu/diversity
+http://www.washington.edu/diversity/cdo/
+http://www.washington.edu/diversity/uw-schools-and-colleges/
+http://www.bothell.washington.edu/diversity
+http://www.washington.edu/diversity/current-students/
+http://www.washington.edu/diversity/faculty-staff/
+https://www.washington.edu/diversity/cdo/
+https://www.washington.edu/diversity/makingchange/
+https://www.washington.edu/diversity/comments/feed/
+https://www.washington.edu/diversity/current-students/
+http://www.washington.edu/diversity/alumni-community/
+https://www.washington.edu/diversity/uw-schools-and-colleges/
+http://www.washington.edu/diversity/learning-about-difference/
+http://www.uw.edu/diversity#resources
+http://grad.uw.edu/diversity/go-map
+https://www.washington.edu/diversity/feed/
+https://www.washington.edu/diversity/world-changing-research/
+https://www.washington.edu/diversity/
+https://www.washington.edu/diversity/future-students/
+https://www.washington.edu/diversity/administrators/
+https://www.washington.edu/diversity/xmlrpc.php?rsd
+http://www.washington.edu/diversity/administrators/
+http://www.uw.edu/diversity#explore
+https://www.washington.edu/diversity/alumni-community/
+http://www.washington.edu/diversity/future-students/
+http://www.washington.edu/diversity/diversity-blueprint/
+https://www.washington.edu/diversity/faculty-staff/
+http://www.washington.edu/diversity/makingchange/
+http://www.washington.edu/diversity/equity-focus/
+https://www.washington.edu/diversity/learning-about-difference/
+http://www.washington.edu/diversity/world-changing-research/
+
+
+
+<!-- IMPORTANT NOTE: 
+This is a sample of what the expected output of calling linkExtractorMain.java would look like
+with input file word filter "equity" and "edu" 
+
+https://www.washington.edu/raceequity/resources/
+https://www.washington.edu/raceequity/feed/
+https://www.washington.edu/raceequity/updates/bias-reporting-tools/
+http://uw.edu/raceequity/diversity-and-equity-for-all
+https://www.washington.edu/raceequity/updates/diversity-blueprint/
+https://www.washington.edu/raceequity/covid-19-student-resources/
+https://www.washington.edu/raceequity/school-and-college-profiles/school-of-dentistry/
+https://www.washington.edu/raceequity/school-and-college-profiles/school-of-medicine/
+https://www.washington.edu/raceequity/school-and-college-profiles/
+https://www.washington.edu/raceequity/school-and-college-profiles/graduate-school/
+https://www.washington.edu/raceequity/resources/leadership-workshops/
+https://www.washington.edu/raceequity/school-and-college-profiles/college-of-built-environments-2/
+https://www.washington.edu/raceequity/comments/feed/
+https://www.washington.edu/raceequity/school-and-college-profiles/college-of-education/
+https://www.washington.edu/raceequity/school-and-college-profiles/school-of-pharmacy/
+https://www.washington.edu/raceequity/school-and-college-profiles/the-information-school/
+https://www.washington.edu/raceequity/resources/anti-racism-resources/
+http://www.washington.edu/raceequity/category/updates/
+https://www.washington.edu/raceequity/updates/
+https://www.washington.edu/raceequity/accountability/
+https://www.washington.edu/raceequity/
+https://www.washington.edu/raceequity/school-and-college-profiles/school-of-public-health/
+https://www.washington.edu/raceequity/school-and-college-profiles/uw-tacoma/
+https://www.washington.edu/raceequity/2020/05/29/antiracism-work-is-all-of-our-work/
+https://www.washington.edu/raceequity/school-and-college-profiles/school-of-nursing/
+https://www.washington.edu/raceequity/school-and-college-profiles/college-of-arts-sciences/
+https://www.washington.edu/raceequity/school-and-college-profiles/college-of-engineering/
+https://www.washington.edu/raceequity/school-and-college-profiles/evans-school-of-public-policy-and-governance/
+https://www.washington.edu/raceequity/updates/climate-assessment/
+https://www.washington.edu/raceequity/making-history
+https://www.washington.edu/raceequity/school-and-college-profiles/uw-bothell/
+https://www.washington.edu/raceequity/school-and-college-profiles/school-of-law/
+https://www.washington.edu/raceequity/updates/faculty-recruitment/
+https://www.washington.edu/raceequity/school-and-college-profiles/michael-g-foster-school-of-business/
+http://www.washington.edu/diversity/equity-focus/
+https://www.washington.edu/raceequity/xmlrpc.php?rsd
+https://www.washington.edu/raceequity/school-and-college-profiles/college-of-the-environment/
+https://www.washington.edu/raceequity/school-and-college-profiles/school-of-social-work/
+

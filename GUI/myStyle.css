@@ -1,0 +1,43 @@
+body {
+  background: #4b2e83;
+  color: #fff;
+  font:12px/18px 'HelveticaNeue', Helvetica, Arial, sans-serif;
+}
+a,a:visited {
+  color:#fff
+}
+#bottom {
+    position: fixed;  
+    width:100%;
+    bottom:0;
+}
+
+img {
+    height: auto; 
+    width: auto; 
+    max-width: 100px; 
+    max-height: 100px;
+    display: block;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#inspo {
+  position: relative;
+  left: 10px;
+  top: 5px;
+}
+
+#query {font-size:20px;}
+#searchBar{
+  position: relative;
+  left: 530px;
+  top: 95px;
+  
+}
+
+
+
+
